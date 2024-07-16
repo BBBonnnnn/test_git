@@ -1,3 +1,1 @@
-x= abcccasda
-tesstb ...
-tesst C
+console.log('dev B thay đổi')
